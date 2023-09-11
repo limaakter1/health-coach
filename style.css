@@ -1,0 +1,38 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.navbar-brand{
+    padding-left: 10%;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.navbar-nav li{
+    padding: 5px 10px;
+    
+}
+.navbar-nav li a{
+    color: black;
+    font-weight: 700;
+    
+}
+.navbar-nav li a:hover{
+    color:  rgb(13, 182, 13);
+}
+.search{
+    padding-right: 10%;
+    
+}
+
+.search button{
+    background-color: rgb(13, 182, 13);
+    color: white;   
+    font-weight: 700;
+    border-radius: 25px;
+    border: 3px solid  rgb(13, 182, 13);
+}
+.search button:hover{
+    background-color: white;
+    border: 3px solid  rgb(13, 182, 13);
+}
